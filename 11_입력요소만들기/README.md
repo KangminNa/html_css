@@ -13,7 +13,7 @@
 
 - type의 값에 따라 입력 요소의 형태나 입력 데이터 유형 등이 달라진다.
 - 사용 가능한 tpye은 20여가지이며, 기본 값은 text이다.
-![]("")
+![]("https://github.com/KangminNa/html_css/blob/main/11_%EC%9E%85%EB%A0%A5%EC%9A%94%EC%86%8C%EB%A7%8C%EB%93%A4%EA%B8%B0/readme%EC%B0%B8%EC%A1%B0.png")
 
 ## input의 핵심, type 속성
 
