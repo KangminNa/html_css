@@ -3,7 +3,7 @@
 
 ## padding 과 margin
 
-![이미지]()
+![이미지](https://github.com/KangminNa/html_css/blob/main/CSS/7_%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B82%ED%8E%B8_margin_padding_%EB%8B%A4%EB%A3%A8%EA%B8%B0/img.png?raw=true)
 
 ## 다양한 경우의 수
 
@@ -16,13 +16,13 @@
 ## 하위 속성 정의하기
 
 - 상하좌우 여백을 정의할 수 있는 개별 속성들이 있다.
-![이미지2]()
+![이미지2](https://github.com/KangminNa/html_css/blob/main/CSS/7_%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B82%ED%8E%B8_margin_padding_%EB%8B%A4%EB%A3%A8%EA%B8%B0/img2.png?raw=true)
 - margin에도 동일한 접미사를 붙여 개별 정의할 수 있음
 
 ## 여러 값을 한 번에 정의하기
 
 - padding과 margin은 네 면의 여백에 대한 단축속성이다.
-![이미지3]()
+![이미지3](https://github.com/KangminNa/html_css/blob/main/CSS/7_%EB%B0%95%EC%8A%A4%EB%AA%A8%EB%8D%B82%ED%8E%B8_margin_padding_%EB%8B%A4%EB%A3%A8%EA%B8%B0/img3.png?raw=true)
 
 ## 내용정리
 
